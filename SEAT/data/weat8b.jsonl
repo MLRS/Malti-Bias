@@ -1,0 +1,54 @@
+{
+"targ1": {
+"category": "Science",
+"examples": [
+"xjenza",
+"teknoloġija",
+"fiżika",
+"kimika",
+"Einstein",
+"NASA",
+"esperiment",
+"astronomija"
+]
+},
+"targ2": {
+"category": "Arts",
+"examples": [
+"poeżija",
+"arti",
+"Shakespeare",
+"żfin",
+"letteratura",
+"rumanz",
+"sinfonija",
+"Drama"
+]
+},
+"attr1": {
+"category": "MaleNames",
+"examples": [
+"Ġwanni",
+"Pawlu",
+"Mike",
+"Kevin",
+"Steve",
+"Greg",
+"Jeff",
+"Abbozz ta ’Liġi"
+]
+},
+"attr2": {
+"category": "FemaleNames",
+"examples": [
+"Amy",
+"Ġaħan",
+"Lisa",
+"Sara",
+"Diana",
+"Kate",
+"Ann",
+"Donna"
+]
+}
+}

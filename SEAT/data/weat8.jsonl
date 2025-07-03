@@ -1,0 +1,54 @@
+{
+"targ1": {
+"category": "Science",
+"examples": [
+"xjenza",
+"teknoloġija",
+"fiżika",
+"kimika",
+"Einstein",
+"NASA",
+"esperiment",
+"astronomija"
+]
+},
+"targ2": {
+"category": "Arts",
+"examples": [
+"poeżija",
+"arti",
+"Shakespeare",
+"żfin",
+"letteratura",
+"rumanz",
+"sinfonija",
+"Drama"
+]
+},
+"attr1": {
+"category": "MaleTerms",
+"examples": [
+"Ħuna",
+"missier",
+"ziju",
+"nannu",
+"iben",
+"hu",
+"tiegħu",
+"lilu"
+]
+},
+"attr2": {
+"category": "FemaleTerms",
+"examples": [
+"oħt",
+"omm",
+"zija",
+"nanna",
+"bint",
+"hi",
+"tagħha",
+"tagħha"
+]
+}
+}

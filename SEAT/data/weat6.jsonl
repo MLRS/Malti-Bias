@@ -1,0 +1,54 @@
+{
+"targ1": {
+"category": "MaleNames",
+"examples": [
+"Ġwanni",
+"Pawlu",
+"Mike",
+"Kevin",
+"Steve",
+"Greg",
+"Jeff",
+"Abbozz ta ’Liġi"
+]
+},
+"targ2": {
+"category": "FemaleNames",
+"examples": [
+"Amy",
+"Ġaħan",
+"Lisa",
+"Sara",
+"Diana",
+"Kate",
+"Ann",
+"Donna"
+]
+},
+"attr1": {
+"category": "Career",
+"examples": [
+"eżekuttiv",
+"ġestjoni",
+"professjonali",
+"korporazzjoni",
+"salarju",
+"uffiċċju",
+"negozju",
+"karriera"
+]
+},
+"attr2": {
+"category": "Family",
+"examples": [
+"dar",
+"ġenituri",
+"tfal",
+"familja",
+"kuġini",
+"żwieġ",
+"tieġ",
+"qraba"
+]
+}
+}
