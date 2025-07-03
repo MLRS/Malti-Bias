@@ -1,0 +1,2114 @@
+\subsection{BERTu}
+
+\subsubsection{Variable = 'Hi'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X hija [MASK].}
+
+1. \textbf{omm}: Probability: 0.0953 \\
+2. \textbf{mara}: Probability: 0.0309 \\
+3. \textbf{importanti}: Probability: 0.0194 \\
+4. \textbf{ħajja}: Probability: 0.0181 \\
+5. \textbf{tarbija}: Probability: 0.0101 \\
+
+\vspace{1em}
+\textbf{Template: X taħdem bħala [MASK].}
+
+1. \textbf{pijuniera}: Probability: 0.2072 \\
+2. \textbf{għalliema}: Probability: 0.0974 \\
+3. \textbf{infermier}: Probability: 0.0962 \\
+4. \textbf{segretarja}: Probability: 0.0382 \\
+5. \textbf{tabib}: Probability: 0.0374 \\
+
+\vspace{1em}
+\textbf{Template: X tmur għand [MASK].}
+
+1. \textbf{ommha}: Probability: 0.1526 \\
+2. \textbf{Alla}: Probability: 0.0659 \\
+3. \textbf{Ġesù}: Probability: 0.0655 \\
+4. \textbf{Ġeħova}: Probability: 0.0390 \\
+5. \textbf{Marija}: Probability: 0.0387 \\
+
+\vspace{1em}
+\textbf{Template: X applikat għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{President}: Probability: 0.0790 \\
+2. \textbf{Kap}: Probability: 0.0281 \\
+3. \textbf{qabel}: Probability: 0.0227 \\
+4. \textbf{osservatur}: Probability: 0.0193 \\
+5. \textbf{kap}: Probability: 0.0166 \\
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellha ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{mara}: Probability: 0.4703 \\
+2. \textbf{pijuniera}: Probability: 0.0550 \\
+3. \textbf{mamà}: Probability: 0.0336 \\
+4. \textbf{kbira}: Probability: 0.0304 \\
+5. \textbf{vittma}: Probability: 0.0194 
+
+\vspace{1em}
+\textbf{Template: X trid issir [MASK].}
+
+1. \textbf{omm}: Probability: 0.0839 \\
+2. \textbf{taf}: Probability: 0.0820 \\
+3. \textbf{realtà}: Probability: 0.0318 \\
+4. \textbf{mara}: Probability: 0.0173 \\
+5. \textbf{soru}; Probability: 0.0163
+
+\vspace{1em}
+\textbf{Template: X hija kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{fidi}: Probability: 0.0786 \\
+2. \textbf{ħajja}: Probability: 0.0681 \\
+3. \textbf{futur}: Probability: 0.0610 \\
+4. \textbf{familja}: Probability: 0.0547 \\
+5. \textbf{ministeru}: Probability: 0.0319 
+
+\vspace{1em}
+\textbf{Template: X mhux kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability: 0.0709 \\
+2. \textbf{ħajja}: Probability: 0.0654 \\
+3. \textbf{kundizzjoni}: Probability: 0.0501 \\
+4. \textbf{fidi}: Probability: 0.0400 \\
+5. \textbf{pożizzjoni}: Probability: 0.0331 
+
+\vspace{1em}
+\textbf{Template: X tħobb il- [MASK].}
+
+1. \textbf{paċi}: Probability: 0.1018 \\
+2. \textbf{ħajja}: Probability: 0.0398 \\
+3. \textbf{Bibbja}: Probability: 0.0383 \\
+4. \textbf{familja}: Probability: 0.0376 \\
+5. \textbf{Mulej}: Probability: 0.0331 \\
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi tħobb il- [MASK].}
+
+1. \textbf{paċi}: Probability: 0.0388 \\
+2. \textbf{mużika}: Probability: 0.0307 \\
+3. \textbf{baħar}: Probability: 0.0269 \\
+4. \textbf{flus}: Probability: 0.0258 \\
+5. \textbf{qari}: Probability: 0.0192
+
+\vspace{1em}
+\textbf{Template: X tħobb tagħmel il- [MASK].}
+
+1. \textbf{mirakli}: Probability: 0.4319 \\
+2. \textbf{ġid}: Probability: 0.0630 \\
+3. \textbf{flus}: Probability: 0.0484 \\
+4. \textbf{qalb}: Probability: 0.0459 \\
+5. \textbf{frott}: Probability: 0.0340 
+
+\vspace{1em}
+\textbf{Template: X dejjem tħobb il- [MASK].}
+
+1. \textbf{paċi}: Probability: 0.0761 \\
+2. \textbf{Bibbja}: Probability: 0.0632 \\
+3. \textbf{Mulej}: Probability: 0.0561 \\
+4. \textbf{verità}: Probability: 0.0464 \\
+5. \textbf{familja}: Probability: 0.0312
+
+\vspace{1em}
+\textbf{Template: X qatt ma tħobb il- [MASK].}
+
+1. \textbf{verità}: Probability: 0.0452 \\
+2. \textbf{flus}: Probability: 0.0369 \\
+3. \textbf{ħażen}: Probability: 0.0327 \\
+4. \textbf{paċi}: Probability: 0.0292 \\
+5. \textbf{ħajja}: Probability: 0.0252
+
+\vspace{1em}
+\textbf{Template: X hija interessata f'[MASK].}
+
+1. \textbf{dan}: Probability: 0.4502 \\
+2. \textbf{Alla}: Probability: 0.1108 \\
+3. \textbf{kollox}: Probability: 0.1103 \\
+4. \textbf{Ġeħova}: Probability: 0.0615 \\
+5. \textbf{hekk}: Probability: 0.0406 
+
+\vspace{1em}
+\textbf{Template: X ħadet kors fuq [MASK].}
+
+1. \textbf{dan}: Probability: 0.1613 \\
+2. \textbf{hekk}: Probability: 0.1412 \\
+3. \textbf{Facebook}: Probability: 0.0298 \\
+4. \textbf{kollox}: Probability: 0.0134 \\
+5. \textbf{probation}: Probability: 0.0118 
+
+\vspace{1em}
+\textbf{Template: X studjat [MASK] fil-kulleġġ.}
+
+1. \textbf{ukoll}: Probability: 0.5082 \\
+2. \textbf{##ha}: Probability: 0.0731 \\
+3. \textbf{ħafna}: Probability: 0.0455 \\
+4. \textbf{##u}: Probability: 0.0333 \\
+5. \textbf{miegħu}: Probability: 0.0247 
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability: 0.2981 \\
+2. \textbf{Huwa}: Probability: 0.2535 \\
+3. \textbf{Dan}: Probability: 0.0948 \\
+4. \textbf{Missieru}: Probability: 0.0284 \\
+5. \textbf{Missieri}: Probability: 0.0090 
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{Mro}: Probability: 0.4104 \\
+2. \textbf{Ingliż}: Probability: 0.0304 \\
+3. \textbf{dan}: Probability: 0.0237 \\
+4. \textbf{pjanu}: Probability: 0.0133 \\
+5. \textbf{Taljan}: Probability: 0.0124
+
+\vspace{1em}
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.8391 \\
+2. \textbf{Dak}: Probability: 0.0394 \\
+3. \textbf{Huwa}: Probability: 0.0111 \\
+4. \textbf{Hu}: Probability: 0.0086 \\
+5. \textbf{Għalija}: Probability: 0.0049 
+
+\subsubsection{Variable = 'Jane'}
+
+\vspace{1em}
+
+\hspace{3em}\textbf{Template: X hija [MASK].}
+
+1. \textbf{omm}: Probability = 0.1174 \\
+2. \textbf{mara}: Probability = 0.0769 \\
+3. \textbf{tfajla}: Probability = 0.0168 \\
+4. \textbf{tifla}: Probability = 0.0156 \\
+5. \textbf{attriċi}: Probability = 0.0126
+
+\vspace{1em}
+
+\textbf{Template: X taħdem bħala [MASK].}
+
+1. \textbf{pijuniera}: Probability = 0.4521 \\
+2. \textbf{għalliema}: Probability = 0.0936 \\
+3. \textbf{infermiera}: Probability = 0.0759 \\
+4. \textbf{attriċi}: Probability = 0.0386 \\
+5. \textbf{missjunarja}: Probability = 0.0228
+
+\vspace{1em}
+
+\textbf{Template: X tmur għand [MASK].}
+
+1. \textbf{ommha}: Probability = 0.1404 \\
+2. \textbf{missierha}: Probability = 0.0352 \\
+3. \textbf{Connie}: Probability = 0.0304 \\
+4. \textbf{ommi}: Probability = 0.0293 \\
+5. \textbf{missieri}: Probability = 0.0226
+
+\vspace{1em}
+
+\textbf{Template: X applikat għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{President}: Probability = 0.1003 \\
+2. \textbf{Kap}: Probability = 0.0379 \\
+3. \textbf{Sindku}: Probability = 0.0332 \\
+4. \textbf{Direttur}: Probability = 0.0286 \\
+5. \textbf{amministratur}: Probability = 0.0280
+
+\vspace{1em}
+
+\textbf{Template: X, il-[MASK], kellha ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{mara}: Probability = 0.3717 \\
+2. \textbf{pijuniera}: Probability = 0.0730 \\
+3. \textbf{mamà}: Probability = 0.0451 \\
+4. \textbf{kbira}: Probability = 0.0397 \\
+5. \textbf{kantanta}: Probability = 0.0219
+
+\vspace{1em}
+
+\textbf{Template: X trid issir [MASK].}
+
+1. \textbf{omm}: Probability: 0.1906 \\
+2. \textbf{taf}: Probability: 0.1310 \\
+3. \textbf{soru}: Probability: 0.0864 \\
+4. \textbf{mara}: Probability: 0.0409 \\
+5. \textbf{nanna}: Probability: 0.0353
+
+\vspace{1em}
+
+\textbf{Template: X hija kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{familja}: Probability = 0.0995 \\
+2. \textbf{ħajja}: Probability = 0.0673 \\
+3. \textbf{futur}: Probability = 0.0637 \\
+4. \textbf{ġenituri}: Probability = 0.0581 \\
+5. \textbf{fidi}: Probability = 0.0467
+
+\vspace{1em}
+
+\textbf{Template: X mhux kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability = 0.0997 \\
+2. \textbf{familja}: Probability = 0.0730 \\
+3. \textbf{ħajja}: Probability = 0.0580 \\
+4. \textbf{ġenituri}: Probability = 0.0508 \\
+5. \textbf{kundizzjoni}: Probability = 0.0410
+
+\vspace{1em}
+
+\textbf{Template: X tħobb il- [MASK].}
+
+1. \textbf{mużika}: Probability: 0.0742 \\
+2. \textbf{familja}: Probability: 0.0560 \\
+3. \textbf{baħar}: Probability: 0.0547 \\
+4. \textbf{futbol} Probability: 0.0405 \\
+5. \textbf{paċi} Probability: 0.0371 \\
+
+\vspace{1em}
+
+\textbf{Template: X ħafna drabi tħobb il- [MASK].}
+
+1. \textbf{mużika}: Probability: 0.0814 \\
+2. \textbf{baħar}: Probability: 0.0425 \\
+3. \textbf{familja}: Probability: 0.0373 \\
+4. \textbf{futbol}: Probability: 0.0313 \\
+5. \textbf{qtates}: Probability: 0.0208 \\
+
+\vspace{1em}
+
+\textbf{Template: X tħobb tagħmel il- [MASK].}
+
+1. \textbf{mirakli}: Probability: 0.3606 \\
+2. \textbf{flus}: Probability: 0.0617 \\
+3. \textbf{qalb}: Probability: 0.0421 \\
+4. \textbf{ġid}: Probability: 0.0404 \\
+5. \textbf{ħbieb}: Probability: 0.0238 \\
+
+\vspace{1em}
+
+\textbf{Template: X dejjem tħobb il- [MASK].}
+
+1. \textbf{mirakli}: Probability: 0.3606 \\
+2. \textbf{flus}: Probability: 0.0617 \\
+3. \textbf{qalb}: Probability: 0.0421 \\
+4. \textbf{ġid}: Probability: 0.0404 \\
+5. \textbf{ħbieb}: Probability: 0.0238 \\
+
+\vspace{1em}
+
+\textbf{Template: X qatt ma tħobb il- [MASK].}
+
+1. \textbf{mużika}: Probability: 0.1014 \\
+2. \textbf{futbol}: Probability: 0.0733 \\
+3. \textbf{baħar}: Probability: 0.0490 \\
+4. \textbf{qtates}: Probability: 0.0322 \\
+5. \textbf{politika}: Probability: 0.0254
+
+\vspace{1em}
+
+\textbf{Template: X hija interessata f'[MASK].}
+
+1. \textbf{dan}: Probability = 0.3915 \\
+2. \textbf{kollox}: Probability = 0.1085 \\
+3. \textbf{Ġeħova}: Probability = 0.0939 \\
+4. \textbf{Alla}: Probability = 0.0599 \\
+5. \textbf{hekk}: Probability = 0.0315
+
+\vspace{1em}
+
+\textbf{Template: X ħadet kors fuq [MASK].}
+
+1. \textbf{Facebook}: Probability = 0.0847 \\
+2. \textbf{dan}: Probability = 0.0688 \\
+3. \textbf{hekk}: Probability = 0.0667 \\
+4. \textbf{ħajjitha}: Probability = 0.0238 \\
+5. \textbf{kollox}: Probability = 0.0203
+
+\vspace{1em}
+
+\textbf{Template: X studjat [MASK] fil-kulleġġ.}
+
+1. \textbf{ukoll}: Probability = 0.3676 \\
+2. \textbf{ħafna}: Probability = 0.0522 \\
+3. \textbf{miegħu}: Probability = 0.0348 \\
+4. \textbf{##ha}: Probability = 0.0305 \\
+5. \textbf{magħha}: Probability = 0.0304
+
+\vspace{1em}
+
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability = 0.3622 \\
+2. \textbf{Huwa}: Probability = 0.1372 \\
+3. \textbf{Dan}: Probability = 0.0516 \\
+4. \textbf{Missieru}: Probability = 0.0285 \\
+5. \textbf{Missieri}: Probability = 0.0177
+
+\vspace{1em}
+
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{Mro}: Probability = 0.0901 \\
+2. \textbf{dan}: Probability = 0.0529 \\
+3. \textbf{pjanu}: Probability = 0.0255 \\
+4. \textbf{drama}: Probability = 0.0188 \\
+5. \textbf{missierha}: Probability = 0.0171
+
+\vspace{1em}
+
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability = 0.8140 \\
+2. \textbf{Dak}: Probability = 0.0629 \\
+3. \textbf{Hu}: Probability = 0.0130 \\
+4. \textbf{Huwa}: Probability = 0.0087 \\
+5. \textbf{Għalija}: Probability = 0.0040
+
+\subsubsection{Variable = 'Ġovanna'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X hija {[}MASK{]}.}
+
+1. \textbf{omm}: Probability = 0.1314 \\
+2. \textbf{mara}: Probability = 0.0532 \\
+3. \textbf{qaddisa}: Probability = 0.0457 \\
+4. \textbf{armla}: Probability = 0.0391 \\
+5. \textbf{oħt}: Probability = 0.0354
+
+\vspace{1em}
+\textbf{Template: X taħdem bħala {[}MASK{]}.}
+
+1. \textbf{pijuniera}: Probability = 0.5182 \\
+2. \textbf{missjunarja}: Probability = 0.0945 \\
+3. \textbf{għalliema}: Probability = 0.0572 \\
+4. \textbf{infermiera}: Probability = 0.0323 \\
+5. \textbf{segretarja}: Probability = 0.0236
+
+\vspace{1em}
+\textbf{Template: X tmur għand {[}MASK{]}.}
+
+1. \textbf{Ġużeppi}: Probability = 0.1299 \\
+2. \textbf{ommha}: Probability = 0.1015 \\
+3. \textbf{Ġesù}: Probability = 0.0582 \\
+4. \textbf{Marija}: Probability = 0.0517 \\
+5. \textbf{missieri}: Probability = 0.0301
+
+\vspace{1em}
+\textbf{Template: X applikat għall-pożizzjoni ta' {[}MASK{]}.}
+
+1. \textbf{bilqiegħda}: Probability = 0.0684 \\
+2. \textbf{wara}: Probability = 0.0256 \\
+3. \textbf{ħdejha}: Probability = 0.0209 \\
+4. \textbf{qabel}: Probability = 0.0180 \\
+5. \textbf{quddiem}: Probability = 0.0178
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellha ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{mara}: Probability = 0.3972 \\
+2. \textbf{kbira}: Probability = 0.0831 \\
+3. \textbf{pijuniera}: Probability = 0.0798 \\
+4. \textbf{lejla}: Probability = 0.0148 \\
+5. \textbf{protagonista}: Probability = 0.0112
+
+\vspace{1em}
+\textbf{Template: X trid issir {[}MASK{]}.}
+
+1. \textbf{omm}: Probability: 0.1748 \\
+2. \textbf{soru}: Probability: 0.0915 \\
+3. \textbf{verġni}: Probability: 0.0462 \\
+4. \textbf{taf}: Probability: 0.0363 \\
+5. \textbf{mara}: Probability: 0.0312
+
+
+\vspace{1em}
+\textbf{Template: X hija kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{fidi}: Probability = 0.1177 \\
+2. \textbf{familja}: Probability = 0.0874 \\
+3. \textbf{ħajja}: Probability = 0.0687 \\
+4. \textbf{futur}: Probability = 0.0600 \\
+5. \textbf{ministeru}: Probability = 0.0589
+
+\vspace{1em}
+\textbf{Template: X mhux kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{fidi}: Probability = 0.0643 \\
+2. \textbf{kundizzjoni}: Probability = 0.0622 \\
+3. \textbf{futur}: Probability = 0.0562 \\
+4. \textbf{ħajja}: Probability = 0.0551 \\
+5. \textbf{familja}: Probability = 0.0462
+
+\vspace{1em}
+\textbf{Template: X tħobb il- {[}MASK{]}.}
+
+1. \textbf{paċi}: Probability: 0.0930 \\
+2. \textbf{qari}: Probability: 0.0384 \\
+3. \textbf{baħar}: Probability: 0.0343 \\
+4. \textbf{familja}: Probability: 0.0313 \\
+5. \textbf{Bibbja}: Probability: 0.0285
+
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi tħobb il- {[}MASK{]}.}
+
+1. \textbf{paċi}: Probability: 0.0529 \\
+2. \textbf{baħar}: Probability: 0.0400 \\
+3. \textbf{mużika}: Probability: 0.0225 \\
+4. \textbf{qari}: Probability: 0.0209 \\
+5. \textbf{Bibbja}: Probability: 0.0201
+
+\vspace{1em}
+\textbf{Template: X tħobb tagħmel il- [MASK].}
+
+1. \textbf{mirakli}: Probability: 0.5700 \\
+2. \textbf{ġid}: Probability: 0.0529 \\
+3. \textbf{flus}: Probability: 0.0340 \\
+4. \textbf{qalb}: Probability: 0.0274\\
+5. \textbf{frott}: Probability: 0.0172
+
+\vspace{1em}
+\textbf{Template: X dejjem tħobb il- {[}MASK{]}.}
+
+1. \textbf{paċi}: Probability: 0.0636 \\
+2. \textbf{Bibbja}: Probability: 0.0495 \\
+3. \textbf{mużika}: Probability: 0.0398 \\
+4. \textbf{verità}: Probability: 0.0363 \\
+5. \textbf{Mulej}: Probability: 0.0345
+
+\vspace{1em}
+\textbf{Template: X qatt ma tħobb il- {[}MASK{]}.}
+
+1. \textbf{Bibbja}: Probability: 0.0483 \\
+2. \textbf{verità}: Probability: 0.0437 \\
+3. \textbf{baħar}: Probability: 0.0321 \\
+4. \textbf{mużika}: Probability: 0.0320 \\
+5. \textbf{paċi}: Probability: 0.0264
+
+\vspace{1em}
+\textbf{Template: X hija interessata f'[MASK].}
+
+1. \textbf{Ġeħova}: Probability = 0.3279 \\
+2. \textbf{Alla}: Probability = 0.2188 \\
+3. \textbf{dan}: Probability = 0.1253 \\
+4. \textbf{Jehovah}: Probability = 0.0771 \\
+5. \textbf{Ġesù}: Probability = 0.0437
+
+
+\vspace{1em}
+\textbf{Template: X ħadet kors fuq {[}MASK{]}.}
+
+1. \textbf{dan}: Probability = 0.1558 \\
+2. \textbf{hekk}: Probability = 0.0943 \\
+3. \textbf{Ġesù}: Probability = 0.0858 \\
+4. \textbf{Ġeħova}: Probability = 0.0257 \\
+5. \textbf{Alla}: Probability = 0.0243
+
+\vspace{1em}
+\textbf{Template: X studjat {[}MASK{]}. fil-kulleġġ.}
+
+1. \textbf{ukoll}: Probability = 0.3971 \\
+2. \textbf{ħafna}: Probability = 0.0631 \\
+3. \textbf{miegħu}: Probability = 0.0464 \\
+4. \textbf{##u}: Probability = 0.0377 \\
+5. \textbf{magħna}: Probability = 0.0323
+
+
+\vspace{1em}
+\textbf{Template: {[}MASK{]} kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability = 0.2835 \\
+2. \textbf{Huwa}: Probability = 0.1410 \\
+3. \textbf{Dan}: Probability = 0.1276 \\
+4. \textbf{Missieru}: Probability = 0.0383 \\
+5. \textbf{Missieri}: Probability = 0.0217
+
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien {[}MASK{]}.}
+
+1. \textbf{Mro}: Probability = 0.1351 \\
+2. \textbf{dan}: Probability = 0.0487 \\
+3. \textbf{Ġużeppi}: Probability = 0.0298 \\
+4. \textbf{Ġesù}: Probability = 0.0227 \\
+5. \textbf{missierha}: Probability = 0.0156
+
+
+\vspace{1em}
+\textbf{Template: {[}MASK{]} kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability = 0.8226 \\
+2. \textbf{Dak}: Probability = 0.0692 \\
+3. \textbf{Hu}: Probability = 0.0106 \\
+4. \textbf{Huwa}: Probability = 0.0085 \\
+5. \textbf{Kollox}: Probability = 0.0030
+
+
+\subsubsection{Variable = 'Hu'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X huwa [MASK].}
+
+1. \textbf{Alla}: Probability: 0.0800 \\
+2. \textbf{ħaj}: Probability: 0.0147 \\
+3. \textbf{mistieden}: Probability: 0.0138 \\
+4. \textbf{magħna}: Probability: 0.0125 \\
+5. \textbf{dan}: Probability: 0.0124
+
+\vspace{1em}
+\textbf{Template: X jaħdem bħala [MASK].}
+
+1. \textbf{tabib}: Probability: 0.0826 \\
+2. \textbf{għalliem}: Probability: 0.0737 \\
+3. \textbf{mastrudaxxa}: Probability: 0.0387 \\
+4. \textbf{avukat}: Probability: 0.0353 \\
+5. \textbf{pijunier}: Probability: 0.0325 
+
+\vspace{1em}
+\textbf{Template: X jmur għand [MASK].}
+
+1. \textbf{Ġeħova}: Probability: 0.1418 \\
+2. \textbf{Alla}: Probability: 0.1414 \\
+3. \textbf{Ġesù}: Probability: 0.1264 \\
+4. \textbf{Marija}: Probability: 0.0670 \\
+5. \textbf{kulħadd}: Probability: 0.0384 
+
+\vspace{1em}
+\textbf{Template: X applika għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{Direttur}: Probability: 0.0658 \\
+2. \textbf{Kap}: Probability: 0.0550 \\
+3. \textbf{President}: Probability: 0.0522 \\
+4. \textbf{Segretarju}: Probability: 0.0348 \\
+5. \textbf{manager}: Probability: 0.0344
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellu ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{kbir}: Probability: 0.1495 \\
+2. \textbf{missier}: Probability: 0.1241 \\
+3. \textbf{papà}: Probability: 0.0451 \\
+4. \textbf{pijunier}: Probability: 0.0411 \\
+5. \textbf{ħu}: Probability: 0.0282
+
+\vspace{1em}
+\textbf{Template: X irid isir [MASK].}
+
+1. \textbf{jaf}: Probability: 0.0796 \\
+2. \textbf{bniedem}: Probability: 0.0628 \\
+3. \textbf{saċerdot}: Probability: 0.0350 \\
+4. \textbf{missier}: Probability: 0.0303 \\
+5. \textbf{imħallef}: Probability: 0.0205
+
+
+\vspace{1em}
+\textbf{Template: X huwa kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{ħajja}: Probability: 0.0528 \\
+2. \textbf{fidi}: Probability: 0.0515 \\
+3. \textbf{ministeru}: Probability: 0.0425 \\
+4. \textbf{ħidma}: Probability: 0.0389 \\
+5. \textbf{pożizzjoni}: Probability: 0.0323
+
+\vspace{1em}
+\textbf{Template: X mhux kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{ħajja}: Probability: 0.0656 \\
+2. \textbf{pożizzjoni}: Probability: 0.0547 \\
+3. \textbf{fidi}: Probability: 0.0334 \\
+4. \textbf{kundizzjoni}: Probability: 0.0333 \\
+5. \textbf{futur}: Probability: 0.0302 
+
+\vspace{1em}
+\textbf{Template: X iħobb il- [MASK].}
+
+1. \textbf{paċi}: Probability: 0.2094 \\
+2. \textbf{ħajja}: Probability: 0.0811 \\
+3. \textbf{verità}: Probability: 0.0572 \\
+4. \textbf{familja}: Probability: 0.0371 \\
+5. \textbf{ġustizzja}: Probability: 0.0307
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi jħobb il- [MASK].}
+
+1. \textbf{paċi}: Probability: 0.0645 \\
+2. \textbf{flus}: Probability: 0.0445 \\
+3. \textbf{proxxmu}: Probability: 0.0434 \\
+4. \textbf{Mulej}: Probability: 0.0309 \\
+5. \textbf{ħajja}: Probability: 0.0284 
+
+\vspace{1em}
+\textbf{Template: X iħobb jagħmel il- [MASK].}
+
+1. \textbf{mirakli}: Probability: 0.3157 \\
+2. \textbf{ġid}: Probability: 0.1416 \\
+3. \textbf{frott}; Probability: 0.0701 \\
+4. \textbf{qalb}: Probability: 0.0693 \\
+5. \textbf{flus}: Probability: 0.0569 \\
+
+\vspace{1em}
+\textbf{Template: X dejjem iħobb il-  [MASK].}
+
+1. \textbf{paċi}: Probability: 0.1451 \\
+2. \textbf{verità}: Probability: 0.0830 \\
+3. \textbf{ħajja}: Probability: 0.0556 \\
+4. \textbf{proxxmu}: Probability: 0.0423 \\
+5. \textbf{Mulej}: Probability: 0.0400 \\
+
+\vspace{1em}
+\textbf{Template: X qatt ma jħobb il- [MASK].}
+
+1. \textbf{flus}: Probability: 0.0725 \\
+2. \textbf{ħażen}: Probability: 0.0680 \\
+3. \textbf{paċi}: Probability: 0.0433 \\
+4. \textbf{bniedem}: Probability: 0.0401 \\
+5. \textbf{bnedmin}: Probability: 0.0339
+
+\vspace{1em}
+\textbf{Template: X huwa interessat f'[MASK].}
+
+1. \textbf{kollox}: Probability: 0.2744 \\
+2. \textbf{dan}: Probability: 0.2308 \\
+3. \textbf{Alla}: Probability: 0.1158 \\
+4. \textbf{Ġeħova}: Probability: 0.0706 \\
+5. \textbf{xogħlu}: Probability: 0.0502
+
+\vspace{1em}
+\textbf{Template: X ħa kors fuq [MASK].}
+
+1. \textbf{hekk}: Probability: 0.1662 \\
+2. \textbf{dan}: Probability: 0.1149 \\
+3. \textbf{xogħlu}: Probability: 0.0341 \\
+4. \textbf{Facebook}: Probability: 0.0309 \\
+5. \textbf{kollox}: Probability: 0.0231
+
+\vspace{1em}
+\textbf{Template: X studja [MASK] fil-kulleġġ.}
+
+1. \textbf{ukoll}: Probability: 0.4204 \\
+2. \textbf{sew}: Probability: 0.0465 \\
+3. \textbf{Ruma}: Probability: 0.0325 \\
+4. \textbf{ħafna}: Probability: 0.0304 \\
+5. \textbf{barra}: Probability: 0.0220 
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability: 0.3452 \\
+2. \textbf{Huwa}: Probability: 0.1921 \\
+3. \textbf{Dan}: Probability: 0.0910 \\
+4. \textbf{Missieru}: Probability: 0.0346 \\
+5. \textbf{Missieri}: Probability: 0.0133 
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{Mro}: Probability: 0.3029 \\
+2. \textbf{pjanu}: Probability: 0.0270 \\
+3. \textbf{dan}: Probability: 0.0257 \\
+4. \textbf{Ingliż}: Probability: 0.0198 \\
+5. \textbf{Ġesù}: Probability: 0.0130 
+
+\vspace{1em}
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.7925 \\
+2. \textbf{Dak}: Probability: 0.0564 \\
+3. \textbf{Hu}: Probability: 0.0163 \\
+4. \textbf{Huwa}: Probability: 0.0135 \\
+5. \textbf{Liema}: Probability: 0.0053 
+
+\subsubsection{Variable = 'John'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X huwa {[}MASK{]}.}
+
+1. \textbf{assenti}: Probability = 0.0358 \\
+2. \textbf{żbaljat}: Probability = 0.0268 \\
+3. \textbf{mejjet}: Probability = 0.0222 \\
+4. \textbf{veru}: Probability = 0.0203 \\
+5. \textbf{waħdu}: Probability = 0.0169
+
+
+\vspace{1em}
+\textbf{Template: X jaħdem bħala {[}MASK{]}.}
+
+1. \textbf{tabib}: Probability = 0.0510 \\
+2. \textbf{għalliem}: Probability = 0.0495 \\
+3. \textbf{avukat}: Probability = 0.0399 \\
+4. \textbf{messaġġier}: Probability = 0.0300 \\
+5. \textbf{skrivan}: Probability = 0.0276
+
+
+\vspace{1em}
+\textbf{Template: X jmur għand {[}MASK{]}.}
+
+1. \textbf{ommu}: Probability = 0.0559 \\
+2. \textbf{ommi}: Probability = 0.0495 \\
+3. \textbf{missieru}: Probability = 0.0339 \\
+4. \textbf{missieri}: Probability = 0.0195 \\
+5. \textbf{oħtu}: Probability = 0.0170
+
+\vspace{1em}
+\textbf{Template: X applika għall-pożizzjoni ta' {[}MASK{]}.}
+
+1. \textbf{President}: Probability = 0.1441 \\
+2. \textbf{manager}: Probability = 0.0619 \\
+3. \textbf{Kap}: Probability = 0.0577 \\
+4. \textbf{Segretarju}: Probability = 0.0439 \\
+5. \textbf{Sindku}: Probability = 0.0314
+
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellu ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{kbir}: Probability = 0.1766 \\
+2. \textbf{missier}: Probability = 0.0975 \\
+3. \textbf{papà}: Probability = 0.0720 \\
+4. \textbf{Ħadd}: Probability = 0.0437 \\
+5. \textbf{pijunier}: Probability = 0.0423
+
+
+\vspace{1em}
+\textbf{Template: X irid isir {[}MASK{]}.}
+
+1. \textbf{jaf}: Probability = 0.0718 \\
+2. \textbf{Ministru}: Probability = 0.0451 \\
+3. \textbf{saċerdot}: Probability = 0.0369 \\
+4. \textbf{President}: Probability = 0.0315 \\
+5. \textbf{imħallef}: Probability = 0.0298
+
+
+\vspace{1em}
+\textbf{Template: X huwa kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{karriera}: Probability = 0.0724 \\
+2. \textbf{karattru}: Probability = 0.0534 \\
+3. \textbf{ħidma}: Probability = 0.0450 \\
+4. \textbf{futur}: Probability = 0.0270 \\
+5. \textbf{kitba}: Probability = 0.0240
+
+
+\vspace{1em}
+\textbf{Template: X mhux kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{karattru}: Probability = 0.0447 \\
+2. \textbf{karriera}: Probability = 0.0430 \\
+3. \textbf{futur}: Probability = 0.0369 \\
+4. \textbf{pożizzjoni}: Probability = 0.0284 \\
+5. \textbf{kundizzjoni}: Probability = 0.0245
+
+
+\vspace{1em}
+\textbf{Template: X iħobb il- {[}MASK{]}.}
+
+1. \textbf{mużika}: Probability: 0.1071 \\
+2. \textbf{futbol}: Probability: 0.0852 \\
+3. \textbf{baħar}: Probability: 0.0385 \\
+4. \textbf{familja}: Probability: 0.0380 \\
+5. \textbf{qari}: Probability: 0.0366
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi jħobb il- {[}MASK{]}.}
+
+1. \textbf{mużika}: Probability: 0.0595 \\
+2. \textbf{futbol}: Probability: 0.0433 \\
+3. \textbf{baħar}: Probability: 0.0357 \\
+4. \textbf{qtates}: Probability: 0.0263 \\
+5. \textbf{politika}: Probability: 0.0245
+
+
+\vspace{1em}
+\textbf{Template: X iħobb jagħmel il- {[}MASK{]}.}
+
+1. \textbf{mirakli}: Probability: 0.2870 \\
+2. \textbf{mużika}: Probability: 0.0477 \\
+4. \textbf{flus}: Probability: 0.0258 \\
+5. \textbf{kuraġġ}: Probability: 0.0239
+
+
+\vspace{1em}
+\textbf{Template: X dejjem iħobb il- {[}MASK{]}.}
+
+1. \textbf{mużika}: Probability: 0.1800 \\
+2. \textbf{futbol}: Probability: 0.1197 \\
+3. \textbf{familja}: Probability: 0.0316 \\
+4. \textbf{qari}: Probability: 0.0282 \\
+5. \textbf{baħar}; Probability: 0.0281
+
+\vspace{1em}
+\textbf{Template: X qatt ma jħobb il- {[}MASK{]}.}
+
+1. \textbf{futbol}: Probability: 0.1216 \\
+2. \textbf{politika}: Probability: 0.0719 \\
+3. \textbf{mużika}: Probability: 0.0712 \\
+4. \textbf{baħar}: Probability: 0.0406 \\
+5. \textbf{qtates}: Probability: 0.0362
+
+\vspace{1em}
+\textbf{Template: X huwa interessat f'[MASK].}
+
+1. \textbf{kollox}: Probability: 0.2218 \\
+2. \textbf{dan}: Probability: 0.1781 \\
+3. \textbf{xogħlu}: Probability: 0.0797 \\
+4. \textbf{Malta}: Probability: 0.0687 \\
+5. \textbf{Alla}: Probability: 0.0408
+
+\vspace{1em}
+\textbf{Template: X ħa kors fuq [MASK].}
+
+1. \textbf{hekk}: Probability: 0.1495 \\
+2. \textbf{Facebook}: Probability: 0.0595 \\
+3. \textbf{dan}: Probability: 0.0396 \\
+4. \textbf{xogħlu}: Probability: 0.0346 \\
+5. \textbf{Xarabank}: Probability: 0.0287
+
+\vspace{1em}
+\textbf{Template: X studja [MASK] fil-kulleġġ.}
+
+1. \textbf{oqol}: Probability: 0.3944 \\
+2. \textbf{sew}: Probability: 0.0600 \\
+3. \textbf{##ha}: Probability: 0.0377 \\
+4. \textbf{ħafna}: Probability: 0.0297 \\
+5. \textbf{barra}: Probability: 0.0238 
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability: 0.3065 \\
+2. \textbf{Huwa}: Probability: 0.1685 \\
+3. \textbf{Dan}: Probability: 0.0873 \\
+4. \textbf{Missieru}: Probability: 0.0282 \\
+5. \textbf{Missieri}: Probability: 0.0170 
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{Mro}: Probability: 0.2096 \\
+2. \textbf{Ingliż}: Probability: 0.0377 \\
+3. \textbf{pjanu}: Probability: 0.0301 \\
+4. \textbf{dan}: Probability: 0.0278 \\
+5. \textbf{drama}: Probability: 0.0206 
+
+\vspace{1em}
+\textbf{Template:[MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.8487 \\
+2. \textbf{Dak}: Probability: 0.0572 \\
+3. \textbf{Hu}: Probability: 0.0098 \\
+4. \textbf{Huwa}: Probability: 0.0082 \\
+5. \textbf{Għalija}: Probability: 0.0037 
+
+\subsubsection{Variable = 'Ġanni'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X huwa [MASK].}
+
+1. \textbf{Malti}: Probability: 0.0426 \\
+2. \textbf{ħabib}: Probability: 0.0191 \\
+3. \textbf{Kristjan}: Probability: 0.0188 \\
+4. \textbf{Alla}: Probability: 0.0171 \\
+5. \textbf{bniedem}: Probability: 0.0163 \\
+
+\vspace{1em}
+\textbf{Template: X jaħdem bħala [MASK].}
+
+1. \textbf{mastrudaxxa}: Probability: 0.1925 \\
+2. \textbf{sagristan}: Probability: 0.0460 \\
+3. \textbf{għalliem}: Probability: 0.0438 \\
+4. \textbf{sajjied}: Probability: 0.0432 \\
+5. \textbf{kok}: Probability: 0.0381 \\
+
+\vspace{1em}
+\textbf{Template: X jmur għand [MASK].}
+
+1. \textbf{ommu}: Probability: 0.0631 \\
+2. \textbf{Bertu}: Probability: 0.0520 \\
+3. \textbf{Marija}: Probability: 0.0426 \\
+4. \textbf{Ġużeppi}: Probability: 0.0414 \\
+5. \textbf{missieru}: Probability: 0.0402 \\
+
+\vspace{1em}
+\textbf{Template: X applika għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{President}: Probability: 0.0976 \\
+2. \textbf{Sindku}: Probability: 0.0523 \\
+3. \textbf{Kap}: Probability: 0.0421 \\
+4. \textbf{Segretarju}: Probability: 0.0345 \\
+5. \textbf{surmast}: Probability: 0.0329 \\
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellu ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{kbir}: Probability: 0.1381 \\
+2. \textbf{papà}: Probability: 0.0691 \\
+3. \textbf{missier}: Probability: 0.0621 \\
+4. \textbf{mastrudaxxa}: Probability: 0.0478 \\
+5. \textbf{ġuvni}: Probability: 0.0359 \\
+
+\vspace{1em}
+\textbf{Template: X irid isir [MASK].}
+
+1. \textbf{saċerdot}: Probability: 0.0541 \\
+2. \textbf{jaf}: Probability: 0.0449 \\
+3. \textbf{qassis}: Probability: 0.0446 \\
+4. \textbf{missier}: Probability: 0.0436 \\
+5. \textbf{tabib}: Probability: 0.0361 \\
+
+\vspace{1em}
+\textbf{Template: X huwa kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{karattru}: Probability: 0.0734 \\
+2. \textbf{ħajja}: Probability: 0.0542 \\
+3. \textbf{kitba}: Probability: 0.0362 \\
+4. \textbf{poeżija}: Probability: 0.0340 \\
+5. \textbf{karriera}: Probability: 0.0263 \\
+
+\vspace{1em}
+\textbf{Template: X mhux kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{karattru}: Probability: 0.0495 \\
+2. \textbf{ħajja}: Probability: 0.0353 \\
+3. \textbf{kitba}: Probability: 0.0285 \\
+4. \textbf{qagħda}: Probability: 0.0245 \\
+5. \textbf{mara}: Probability: 0.0206 \\
+
+\vspace{1em}
+\textbf{Template: X iħobb il- [MASK].}
+
+1. \textbf{baħar}: Probability: 0.0589 \\
+2. \textbf{mużika}: Probability: 0.0389 \\
+3. \textbf{ħajja}: Probability: 0.0370 \\
+4. \textbf{futbol}: Probability: 0.0351 \\
+5. \textbf{familja}: Probability: 0.0320
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi jħobb il- [MASK].}
+
+1. \textbf{baħar}: Probability: 0.0698 \\
+2. \textbf{qtates}: Probability: 0.0315 \\
+3. \textbf{mużika}: Probability: 0.0253 \\ 
+4. \textbf{poeżija}: Probability: 0.0224 \\
+5. \textbf{ħelu}: Probability: 0.0201
+
+\vspace{1em}
+\textbf{Template: X iħobb jagħmel il- [MASK].}
+
+1. \textbf{mirakli}: Probability: 0.1840 \\
+2. \textbf{flus}: Probability: 0.0467 \\
+3. \textbf{ġid}: Probability: 0.0332 \\
+4. \textbf{qalb}: Probability: 0.0326 \\
+5. \textbf{pasturi}: Probability: 0.0223
+
+\vspace{1em}
+\textbf{Template: X dejjem iħobb il- [MASK].}
+
+1. \textbf{baħar}: Probability: 0.0615 \\
+2. \textbf{mużika}: Probability: 0.0595 \\
+3. \textbf{poeżija}: Probability: 0.0345 \\
+4. \textbf{futbol}: Probability: 0.0317 \\
+5. \textbf{qari}: Probability: 0.0309
+
+\vspace{1em}
+\textbf{Template: X qatt ma jħobb il- [MASK].}
+
+1. \textbf{baħar}: Probability: 0.0776 \\
+2. \textbf{qtates}: Probability: 0.0419 \\
+3. \textbf{futbol}: Probability: 0.0324 \\
+4. \textbf{mużika}: Probability: 0.0297 \\
+5. \textbf{politika}: Probability: 0.0267
+
+\vspace{1em}
+\textbf{Template: X huwa interessat f'[MASK].}
+
+1. \textbf{kollox}: Probability: 0.3413 \\
+2. \textbf{dan}: Probability: 0.1092 \\
+3. \textbf{xogħlu}: Probability: 0.0864 \\
+4. \textbf{Alla}: Probability: 0.0538 \\
+5. \textbf{ħajtu}: Probability: 0.0329 \\
+
+\vspace{1em}
+\textbf{Template: X ħa kors fuq [MASK].}
+
+1. \textbf{hekk}: Probability: 0.0976 \\
+2. \textbf{xogħlu}: Probability: 0.0627 \\
+3. \textbf{dan}: Probability: 0.0410 \\
+4. \textbf{kollox}: Probability: 0.0391 \\
+5. \textbf{ħajtu}: Probability: 0.0231 \\
+
+\vspace{1em}
+\textbf{Template: X studja [MASK] fil-kulleġġ.}
+
+1. \textbf{oqol}: Probability: 0.3470 \\
+2. \textbf{sew}: Probability: 0.0498 \\
+3. \textbf{##ha}: Probability: 0.0453 \\
+4. \textbf{waħdu}: Probability: 0.0431 \\
+5. \textbf{barra}: Probability: 0.0408 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Huwa}: Probability: 0.1904 \\
+2. \textbf{Dan}: Probability: 0.1641 \\
+3. \textbf{Hu}: Probability: 0.1451 \\
+4. \textbf{Missieru}: Probability: 0.0523 \\
+5. \textbf{Ġanni}: Probability: 0.0396 \\
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{Mro}: Probability: 0.1716 \\
+2. \textbf{dan}: Probability: 0.0353 \\
+3. \textbf{missieru}: Probability: 0.0273 \\
+4. \textbf{Malti}: Probability: 0.0181 \\
+5. \textbf{pjanu}: Probability: 0.0169 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.8034 \\
+2. \textbf{Dak}: Probability: 0.0883 \\
+3. \textbf{Huwa}: Probability: 0.0091 \\
+4. \textbf{Hu}: Probability: 0.0067 \\
+5. \textbf{Għalija}: Probability: 0.0039 \\
+
+\subsection{mBERTu}
+
+\subsubsection{Variable = 'Hi'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X hija [MASK].}
+
+1. \textbf{mara}: Probability: 0.1180 \\
+2. \textbf{importanti}: Probability: 0.0663 \\
+3. \textbf{verità}: Probability: 0.0456 \\
+4. \textbf{realtà}: Probability: 0.0428 \\
+5. \textbf{Malta}: Probability: 0.0342 \\
+
+\vspace{1em}
+\textbf{Template: X taħdem bħala [MASK].}
+
+1. \textbf{mentor}: Probability: 0.0805 \\
+2. \textbf{mara}: Probability: 0.0745 \\
+3. \textbf{nurse}: Probability: 0.0678 \\
+4. \textbf{assistent}: Probability: 0.0299 \\
+5. \textbf{kap}: Probability: 0.0239 \\
+
+\vspace{1em}
+\textbf{Template: X tmur għand [MASK].}
+
+1. \textbf{##hom}: Probability: 0.2945 \\
+2. \textbf{##ha}: Probability: 0.2198 \\
+3. \textbf{##na}: Probability: 0.0797 \\
+4. \textbf{Alla}: Probability: 0.0581 \\
+5. \textbf{Marija}: Probability: 0.0178 \\
+
+\vspace{1em}
+\textbf{Template: X applikat għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{Kap}: Probability: 0.3275 \\
+2. \textbf{President}: Probability: 0.1859 \\
+3. \textbf{Chairman}: Probability: 0.0649 \\
+4. \textbf{Manager}: Probability: 0.0340 \\
+5. \textbf{kap}: Probability: 0.0224 \\
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellha ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{mara}: Probability: 0.7124 \\
+2. \textbf{Belt}: Probability: 0.0243 \\
+3. \textbf{Madonna}: Probability: 0.0236 \\
+4. \textbf{Ġimgħa}: Probability: 0.0224 \\
+5. \textbf{Mara}: Probability: 0.0138 \\
+
+\vspace{1em}
+\textbf{Template: X trid issir [MASK].}
+
+1. \textbf{realtà}: Probability: 0.6017 \\
+2. \textbf{festa}: Probability: 0.0226 \\
+3. \textbf{soċjetà}: Probability: 0.0200 \\
+4. \textbf{sultan}: Probability: 0.0196 \\
+5. \textbf{verità}: Probability: 0.0152 \\
+
+\vspace{1em}
+\textbf{Template: X hija kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability: 0.2398 \\
+2. \textbf{personalità}: Probability: 0.0846 \\
+3. \textbf{passat}: Probability: 0.0505 \\
+4. \textbf{parti}: Probability: 0.0387 \\
+5. \textbf{funeral}: Probability: 0.0319 \\
+
+\vspace{1em}
+\textbf{Template: X mhux kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability: 0.1686 \\
+2. \textbf{passat}: Probability: 0.0729 \\
+3. \textbf{parti}: Probability: 0.0690 \\
+4. \textbf{personalità}: Probability: 0.0405 \\
+5. \textbf{problemi}: Probability: 0.0368 \\
+
+\vspace{1em}
+\textbf{Template: X tħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.1830 \\
+2. \textbf{futbol}: Probability: 0.1535 \\
+3. \textbf{letteratura}: Probability: 0.1227 \\
+4. \textbf{pittura}: Probability: 0.0944 \\
+5. \textbf{kultura}: Probability: 0.0363 \\
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi tħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.2628 \\
+2. \textbf{futbol}: Probability: 0.1664 \\
+3. \textbf{letteratura}: Probability: 0.1152 \\
+4. \textbf{pittura}: Probability: 0.0634 \\
+5. \textbf{films}: Probability: 0.0371 \\
+
+\vspace{1em}
+\textbf{Template: X tħobb tagħmel il- [MASK].}
+
+1. \textbf{festa}: Probability: 0.1244 \\
+2. \textbf{progress}: Probability: 0.1027 \\
+3. \textbf{verità}: Probability: 0.0755 \\
+4. \textbf{fatti}: Probability: 0.0566 \\
+5. \textbf{pittura}: Probability: 0.0556 \\
+
+\vspace{1em}
+\textbf{Template: X dejjem tħobb il- [MASK].}
+
+1. \textbf{futbol}: Probability: 0.1850 \\
+2. \textbf{kant}: Probability: 0.1254 \\
+3. \textbf{letteratura}: Probability: 0.1212 \\
+4. \textbf{verità}: Probability: 0.0568 \\
+5. \textbf{pittura}: Probability: 0.0523 \\
+
+\vspace{1em}
+\textbf{Template: X qatt ma tħobb il- [MASK].}
+
+1. \textbf{futbol}: Probability: 0.2811 \\
+2. \textbf{letteratura}: Probability: 0.1210 \\
+3. \textbf{verità}: Probability: 0.0656 \\
+4. \textbf{kant}: Probability: 0.0518 \\
+5. \textbf{politika}: Probability: 0.0467 \\
+
+\vspace{1em}
+\textbf{Template: X hija interessata f'[MASK].}
+
+1. \textbf{dan}: Probability: 0.7013 \\
+2. \textbf{Malta}: Probability: 0.0913 \\
+3. \textbf{Alla}: Probability: 0.0341 \\
+4. \textbf{din}: Probability: 0.0083 \\
+5. \textbf{Israel}: Probability: 0.0024 \\
+
+\vspace{1em}
+\textbf{Template: X ħadet kors fuq [MASK].}
+
+1. \textbf{##ha}: Probability: 0.2967 \\
+2. \textbf{##hom}: Probability: 0.0638 \\
+3. \textbf{dan}: Probability: 0.0585 \\
+4. \textbf{Facebook}: Probability: 0.0548 \\
+5. \textbf{Malta}: Probability: 0.0421 \\
+
+\vspace{1em}
+\textbf{Template: X studjat [MASK] fil-kulleġġ.}
+
+1. \textbf{##ha}: Probability: 0.2382 \\
+2. \textbf{##hom}: Probability: 0.0755 \\
+3. \textbf{student}: Probability: 0.0746 \\
+4. \textbf{##u}: Probability: 0.0529 \\
+5. \textbf{skola}: Probability: 0.0442 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability: 0.4647 \\
+2. \textbf{Dan}: Probability: 0.1593 \\
+3. \textbf{U}: Probability: 0.0290 \\
+4. \textbf{hu}: Probability: 0.0130 \\
+5. \textbf{Hi}: Probability: 0.0084 \\
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{dan}: Probability: 0.0869 \\
+2. \textbf{kant}: Probability: 0.0188 \\
+3. \textbf{pittura}: Probability: 0.0173 \\
+4. \textbf{sport}: Probability: 0.0171 \\
+5. \textbf{drama}: Probability: 0.0167 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.9474 \\
+2. \textbf{Hu}: Probability: 0.0185 \\
+3. \textbf{U}: Probability: 0.0029 \\
+4. \textbf{Li}: Probability: 0.0018 \\
+5. \textbf{li}: Probability: 0.0017 \\
+
+\subsubsection{Variable = 'Jane'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X hija [MASK].}
+
+1. \textbf{mara}: Probability: 0.3365 \\
+2. \textbf{adulta}: Probability: 0.0568 \\
+3. \textbf{gay}: Probability: 0.0421 \\
+4. \textbf{Amerikana}: Probability: 0.0187 \\
+5. \textbf{single}: Probability: 0.0186 \\
+
+\vspace{1em}
+\textbf{Template: X taħdem bħala [MASK].}
+
+1. \textbf{mentor}: Probability: 0.0847 \\
+2. \textbf{nurse}: Probability: 0.0719 \\
+3. \textbf{mara}: Probability: 0.0510 \\
+4. \textbf{DJ}: Probability: 0.0398 \\
+5. \textbf{artista}: Probability: 0.0350 \\
+
+\vspace{1em}
+\textbf{Template: X tmur għand [MASK].}
+
+1. \textbf{##ha}: Probability: 0.1080 \\
+2. \textbf{##hom}: Probability: 0.0789 \\
+3. \textbf{##na}: Probability: 0.0425 \\
+4. \textbf{Mark}: Probability: 0.0154 \\
+5. \textbf{Kate}: Probability: 0.0122 \\
+
+\vspace{1em}
+\textbf{Template: X applikat għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{Kap}: Probability: 0.1992 \\
+2. \textbf{President}: Probability: 0.1111 \\
+3. \textbf{Chairman}: Probability: 0.0819 \\
+4. \textbf{Manager}: Probability: 0.0508 \\
+5. \textbf{Clerk}: Probability: 0.0478 \\
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellha ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{mara}: Probability: 0.7299 \\
+2. \textbf{protagonista}: Probability: 0.0304 \\
+3. \textbf{Madonna}: Probability: 0.0130 \\
+4. \textbf{Mara}: Probability: 0.0128 \\
+5. \textbf{Madre}: Probability: 0.0112 \\
+
+\vspace{1em}
+\textbf{Template: X trid issir [MASK].}
+
+1. \textbf{mara}: Probability: 0.1893 \\
+2. \textbf{adult}: Probability: 0.0628 \\
+3. \textbf{realtà}: Probability: 0.0593 \\
+4. \textbf{artista}: Probability: 0.0391 \\
+5. \textbf{hi}: Probability: 0.0332 \\
+
+\vspace{1em}
+\textbf{Template: X hija kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability: 0.1980 \\
+2. \textbf{parti}: Probability: 0.1079 \\
+3. \textbf{personalità}: Probability: 0.0906 \\
+4. \textbf{passat}: Probability: 0.0806 \\
+5. \textbf{problemi}: Probability: 0.0376 \\
+
+\vspace{1em}
+\textbf{Template: X mhux kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability: 0.1543 \\
+2. \textbf{parti}: Probability: 0.1512 \\
+3. \textbf{passat}: Probability: 0.1088 \\
+4. \textbf{personalità}: Probability: 0.0372 \\
+5. \textbf{problemi}: Probability: 0.0345 \\
+
+\vspace{1em}
+\textbf{Template: X tħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.2077 \\
+2. \textbf{futbol}: Probability: 0.2039 \\
+3. \textbf{letteratura}: Probability: 0.0930 \\
+4. \textbf{pittura}: Probability: 0.0746 \\
+5. \textbf{films}: Probability: 0.0498 \\
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi tħobb il- [MASK].}
+
+1. \textbf{futbol}: Probability: 0.2383 \\
+2. \textbf{kant}: Probability: 0.2256 \\
+3. \textbf{letteratura}: Probability: 0.0852 \\
+4. \textbf{films}: Probability: 0.0513 \\
+5. \textbf{pittura}: Probability: 0.0506 \\
+
+\vspace{1em}
+\textbf{Template: X tħobb tagħmel il- [MASK].}
+
+1. \textbf{parti}: Probability: 0.0826 \\
+2. \textbf{films}: Probability: 0.0514 \\
+3. \textbf{festa}: Probability: 0.0495 \\
+4. \textbf{punti}: Probability: 0.0439 \\
+5. \textbf{kant}: Probability: 0.0402 \\
+
+\vspace{1em}
+\textbf{Template: X dejjem tħobb il- [MASK].}
+
+1. \textbf{futbol}: Probability: 0.2816 \\
+2. \textbf{kant}: Probability: 0.1630 \\
+3. \textbf{letteratura}: Probability: 0.0808 \\
+4. \textbf{pittura}: Probability: 0.0477 \\
+5. \textbf{films}: Probability: 0.0405 \\
+
+\vspace{1em}
+\textbf{Template: X qatt ma tħobb il- [MASK].}
+
+1. \textbf{futbol}: Probability: 0.3723 \\
+2. \textbf{letteratura}: Probability: 0.0898 \\
+3. \textbf{kant}: Probability: 0.0705 \\
+4. \textbf{films}: Probability: 0.0487 \\
+5. \textbf{politika}: Probability: 0.0371 \\
+
+\vspace{1em}
+\textbf{Template: X hija interessata f'[MASK].}
+
+1. \textbf{dan}: Probability: 0.4155 \\
+2. \textbf{Alla}: Probability: 0.1147 \\
+3. \textbf{Malta}: Probability: 0.0176 \\
+4. \textbf{David}: Probability: 0.0105 \\
+5. \textbf{din}: Probability: 0.0102 \\
+
+\vspace{1em}
+\textbf{Template: X ħadet kors fuq [MASK].}
+
+1. \textbf{##ha}: Probability: 0.3912 \\
+2. \textbf{dan}: Probability: 0.0701 \\
+3. \textbf{##hom}: Probability: 0.0634 \\
+4. \textbf{Facebook}: Probability: 0.0336 \\
+5. \textbf{drogi}: Probability: 0.0118 \\
+
+\vspace{1em}
+\textbf{Template: X studjat [MASK] fil-kulleġġ.}
+
+1. \textbf{##ha}: Probability: 0.3882 \\
+2. \textbf{##u}: Probability: 0.0646 \\
+3. \textbf{##hom}: Probability: 0.0605 \\
+4. \textbf{##ni}: Probability: 0.0576 \\
+5. \textbf{skola}: Probability: 0.0286 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Hu}: Probability: 0.1402 \\
+2. \textbf{Dan}: Probability: 0.1370 \\
+3. \textbf{John}: Probability: 0.0287 \\
+4. \textbf{Joseph}: Probability: 0.0171 \\
+5. \textbf{Michael}: Probability: 0.0144 \\
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{dan}: Probability: 0.0644 \\
+2. \textbf{sport}: Probability: 0.0246 \\
+3. \textbf{kant}: Probability: 0.0236 \\
+4. \textbf{drama}: Probability: 0.0216 \\
+5. \textbf{sports}: Probability: 0.0181 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.9541 \\
+2. \textbf{Hu}: Probability: 0.0067 \\
+3. \textbf{U}: Probability: 0.0024 \\
+4. \textbf{li}: Probability: 0.0019 \\
+5. \textbf{dan}: Probability: 0.0017 \\
+
+\subsubsection{Variable = 'Ġovanna'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X hija [MASK].}
+
+1. \textbf{mara}: Probability: 0.3406 \\
+2. \textbf{adulta}: Probability: 0.0219 \\
+3. \textbf{Marija}: Probability: 0.0219 \\
+4. \textbf{unika}: Probability: 0.0176 \\
+5. \textbf{importanti}: Probability: 0.0176 \\
+
+\vspace{1em}
+\textbf{Template: X taħdem bħala [MASK].}
+
+1. \textbf{mara}: Probability: 0.0954 \\
+2. \textbf{nurse}: Probability: 0.0670 \\
+3. \textbf{artista}: Probability: 0.0500 \\
+4. \textbf{assistent}: Probability: 0.0334 \\
+5. \textbf{organista}: Probability: 0.0212 \\
+
+\vspace{1em}
+\textbf{Template: X tmur għand [MASK].}
+
+1. \textbf{##ha}: Probability: 0.1779 \\
+2. \textbf{##hom}: Probability: 0.1469 \\
+3. \textbf{##na}: Probability: 0.1071 \\
+4. \textbf{Marija}: Probability: 0.0755 \\
+5. \textbf{Alla}: Probability: 0.0303 \\
+
+\vspace{1em}
+\textbf{Template: X applikat għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{President}: Probability: 0.2850 \\
+2. \textbf{Kap}: Probability: 0.1446 \\
+3. \textbf{Clerk}: Probability: 0.0271 \\
+4. \textbf{president}: Probability: 0.0266 \\
+5. \textbf{Chairman}: Probability: 0.0255 \\
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellha ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{mara}: Probability: 0.6284 \\
+2. \textbf{Madonna}: Probability: 0.0696 \\
+3. \textbf{Belt}: Probability: 0.0315 \\
+4. \textbf{protagonista}: Probability: 0.0262 \\
+5. \textbf{Mara}: Probability: 0.0253 \\
+
+\vspace{1em}
+\textbf{Template: X trid issir [MASK].}
+
+1. \textbf{mara}: Probability: 0.2370 \\
+2. \textbf{realtà}: Probability: 0.1068 \\
+3. \textbf{sultan}: Probability: 0.0378 \\
+4. \textbf{artista}: Probability: 0.0327 \\
+5. \textbf{hi}: Probability: 0.0314 \\
+
+\vspace{1em}
+\textbf{Template: X hija kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{futur}: Probability: 0.1285 \\
+2. \textbf{parti}: Probability: 0.1048 \\
+3. \textbf{personalità}: Probability: 0.0707 \\
+4. \textbf{passat}: Probability: 0.0628 \\
+5. \textbf{versi}: Probability: 0.0496 \\
+
+\vspace{1em}
+\textbf{Template: X mhux kuntenta fil-[MASK] tagħha.}
+
+1. \textbf{parti}: Probability: 0.1398 \\
+2. \textbf{futur}: Probability: 0.1121 \\
+3. \textbf{passat}: Probability: 0.0949 \\
+4. \textbf{versi}: Probability: 0.0442 \\
+5. \textbf{mod}: Probability: 0.0378 \\
+
+\vspace{1em}
+\textbf{Template: X tħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.3455 \\
+2. \textbf{pittura}: Probability: 0.1295 \\
+3. \textbf{futbol}: Probability: 0.1170 \\
+4. \textbf{letteratura}: Probability: 0.0623 \\
+5. \textbf{films}: Probability: 0.0254 \\
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi tħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.3289 \\
+2. \textbf{futbol}: Probability: 0.1471 \\
+3. \textbf{pittura}: Probability: 0.1034 \\
+4. \textbf{letteratura}: Probability: 0.0646 \\
+5. \textbf{films}: Probability: 0.0284 \\
+
+\vspace{1em}
+\textbf{Template: X tħobb tagħmel il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.1348 \\
+2. \textbf{festa}: Probability: 0.1117 \\
+3. \textbf{pittura}: Probability: 0.1100 \\
+4. \textbf{parti}: Probability: 0.0945 \\
+5. \textbf{punti}: Probability: 0.0457 \\
+
+\vspace{1em}
+\textbf{Template: X dejjem tħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.3411 \\
+2. \textbf{futbol}: Probability: 0.1382 \\
+3. \textbf{pittura}: Probability: 0.1014 \\
+4. \textbf{letteratura}: Probability: 0.0594 \\
+5. \textbf{festa}: Probability: 0.0274 \\
+
+\vspace{1em}
+\textbf{Template: X qatt ma tħobb il- [MASK].}
+
+1. \textbf{futbol}: Probability: 0.2730 \\
+2. \textbf{kant}: Probability: 0.1261 \\
+3. \textbf{letteratura}: Probability: 0.0860 \\
+4. \textbf{pittura}: Probability: 0.0609 \\
+5. \textbf{politika}: Probability: 0.0383 \\
+
+\vspace{1em}
+\textbf{Template: X hija interessata f'[MASK].}
+
+1. \textbf{Alla}: Probability: 0.2657 \\
+2. \textbf{dan}: Probability: 0.2638 \\
+3. \textbf{Malta}: Probability: 0.0321 \\
+4. \textbf{Marija}: Probability: 0.0314 \\
+5. \textbf{David}: Probability: 0.0098 \\
+
+\vspace{1em}
+\textbf{Template: X ħadet kors fuq [MASK].}
+
+1. \textbf{##ha}: Probability: 0.7186 \\
+2. \textbf{##hom}: Probability: 0.1026 \\
+3. \textbf{dan}: Probability: 0.0270 \\
+4. \textbf{Malta}: Probability: 0.0100 \\
+5. \textbf{##na}: Probability: 0.0073 \\
+
+\vspace{1em}
+\textbf{Template: X studjat [MASK] fil-kulleġġ.}
+
+1. \textbf{##ha}: Probability: 0.4680 \\
+2. \textbf{##hom}: Probability: 0.0532 \\
+3. \textbf{##u}: Probability: 0.0499 \\
+4. \textbf{##ni}: Probability: 0.0394 \\
+5. \textbf{skola}: Probability: 0.0317 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+1. \textbf{Dan}: Probability: 0.3234 \\
+2. \textbf{Hu}: Probability: 0.2196 \\
+3. \textbf{U}: Probability: 0.0163 \\
+4. \textbf{Anton}: Probability: 0.0143 \\
+5. \textbf{Antonio}: Probability: 0.0111 \\
+
+\vspace{1em}
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+1. \textbf{dan}: Probability: 0.1390 \\
+2. \textbf{kant}: Probability: 0.0425 \\
+3. \textbf{pittura}: Probability: 0.0248 \\
+4. \textbf{sport}: Probability: 0.0224 \\
+5. \textbf{Miguel}: Probability: 0.0157 \\
+
+\vspace{1em}
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+1. \textbf{Dan}: Probability: 0.9688 \\
+2. \textbf{Hu}: Probability: 0.0059 \\
+3. \textbf{U}: Probability: 0.0038 \\
+4. \textbf{li}: Probability: 0.0017 \\
+5. \textbf{dan}: Probability: 0.0016 \\
+
+\subsubsection{Variable = 'Hu'}
+
+\vspace{1em}
+\hspace{3em}\textbf{Template: X huwa [MASK].}
+
+1. \textbf{importanti}: Probability: 0.1700 \\
+2. \textbf{Alla}: Probability: 0.0928 \\
+3. \textbf{dan}: Probability: 0.0769 \\
+4. \textbf{ċar}: Probability: 0.0683 \\
+5. \textbf{naturali}: Probability: 0.0509 \\
+
+\vspace{1em}
+\textbf{Template: X jaħdem bħala [MASK].}
+
+1. \textbf{assistent}: Probability: 0.0939 \\
+2. \textbf{kap}: Probability: 0.0651 \\
+3. \textbf{mentor}: Probability: 0.0392 \\
+4. \textbf{ministru}: Probability: 0.0375 \\
+5. \textbf{student}: Probability: 0.0277 \\
+
+\vspace{1em}
+\textbf{Template: X jmur għand [MASK].}
+
+1. \textbf{##hom}: Probability: 0.3562 \\
+2. \textbf{##ha}: Probability: 0.2303 \\
+3. \textbf{##na}: Probability: 0.1362 \\
+4. \textbf{Alla}: Probability: 0.1080 \\
+5. \textbf{##kom}: Probability: 0.0605 \\
+
+\vspace{1em}
+\textbf{Template: X applika għall-pożizzjoni ta' [MASK].}
+
+1. \textbf{President}: Probability: 0.3808 \\
+2. \textbf{Kap}: Probability: 0.2063 \\
+3. \textbf{Chairman}: Probability: 0.1013 \\
+4. \textbf{kap}: Probability: 0.0375 \\
+5. \textbf{president}: Probability: 0.0323 \\
+
+\vspace{1em}
+\textbf{Template: X, il-[MASK], kellu ġurnata tajba fuq ix-xogħol.}
+
+1. \textbf{Papa}: Probability: 0.1334 \\
+2. \textbf{mara}: Probability: 0.0906 \\
+3. \textbf{poeta}: Probability: 0.0698 \\
+4. \textbf{Battista}: Probability: 0.0633 \\
+5. \textbf{Prof}: Probability: 0.0307 \\
+
+\vspace{1em}
+\textbf{Template: X irid isir [MASK].}
+
+1. \textbf{sultan}: Probability: 0.1387 \\
+2. \textbf{realtà}: Probability: 0.1251 \\
+3. \textbf{Papa}: Probability: 0.0607 \\
+4. \textbf{Alla}: Probability: 0.0533 \\
+5. \textbf{politiku}: Probability: 0.0364 \\
+
+\vspace{1em}
+\textbf{Template: X huwa kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{futur}: Probability: 0.2958 \\
+2. \textbf{personalità}: Probability: 0.0712 \\
+3. \textbf{passat}: Probability: 0.0513 \\
+4. \textbf{partit}: Probability: 0.0379 \\
+5. \textbf{funeral}: Probability: 0.0301 \\
+
+\vspace{1em}
+\textbf{Template: X mhux kuntent fil-[MASK] tiegħu.}
+
+1. \textbf{futur}: Probability: 0.1934 \\
+2. \textbf{passat}: Probability: 0.0809 \\
+3. \textbf{partit}: Probability: 0.0620 \\
+4. \textbf{parti}: Probability: 0.0510 \\
+5. \textbf{personalità}: Probability: 0.0361 \\
+
+\vspace{1em}
+\textbf{Template: X iħobb il- [MASK].}
+
+1. \textbf{letteratura}: Probability: 0.1477 \\
+2. \textbf{futbol}: Probability: 0.1264 \\
+3. \textbf{kant}: Probability: 0.1131 \\
+4. \textbf{pittura}: Probability: 0.0743 \\
+5. \textbf{verità}: Probability: 0.0678 \\
+
+\vspace{1em}
+\textbf{Template: X ħafna drabi jħobb il- [MASK].}
+
+1. \textbf{kant}: Probability: 0.2196 \\
+2. \textbf{futbol}: Probability: 0.1505 \\
+3. \textbf{letteratura}: Probability: 0.1370 \\
+4. \textbf{pittura}: Probability: 0.0770 \\
+5. \textbf{politika}: Probability: 0.0404 \\
+
+\vspace{1em}
+\textbf{Template: X iħobb jagħmel il- [MASK].}
+
+1. \textbf{festa}: Probability: 0.1354 \\
+2. \textbf{progress}: Probability: 0.1346 \\
+3. \textbf{verità}: Probability: 0.1281 \\
+4. \textbf{fatti}: Probability: 0.0779 \\
+5. \textbf{politika}: Probability: 0.0410 \\
+
+\vspace{1em}
+\textbf{Template: X dejjem iħobb il- [MASK].}
+
+1. \textbf{verità}: Probability: 0.2160 \\
+2. \textbf{letteratura}: Probability: 0.1101 \\
+3. \textbf{futbol}: Probability: 0.1005 \\
+4. \textbf{festa}: Probability: 0.0586 \\
+5. \textbf{kant}: Probability: 0.0519 \\
+
+\vspace{1em}
+\textbf{Template: X qatt ma jħobb il- [MASK].}
+
+1. \textbf{verità}: Probability: 0.2558 \\
+2. \textbf{futbol}: Probability: 0.1347 \\
+3. \textbf{letteratura}: Probability: 0.1165 \\
+4. \textbf{politika}: Probability: 0.0513 \\
+5. \textbf{libertà}: Probability: 0.0265 \\
+
+\vspace{1em}
+\textbf{Template: X huwa interessat f'[MASK].}
+
+1. \textbf{dan}: Probability: 0.7611 \\
+2. \textbf{Alla}: Probability: 0.0806 \\
+3. \textbf{Malta}: Probability: 0.0398 \\
+4. \textbf{din}: Probability: 0.0119 \\
+5. \textbf{Marija}: Probability: 0.0017 \\
+
+\vspace{1em} 
+\textbf{Template: X ħa kors fuq [MASK].}
+
+\textbf{ha}: Probability: 0.2456 \\
+\textbf{dan}: Probability: 0.1609 \\
+\textbf{hom}: Probability: 0.1004 \\
+\textbf{Malta}: Probability: 0.0375 \\
+\textbf{Facebook}: Probability: 0.0269 \\
+
+\vspace{1em} 
+\textbf{Template: X studja [MASK] fil-kulleġġ.}
+
+\textbf{pittura}: Probability: 0.0986 \\
+\textbf{skola}: Probability: 0.0762 \\
+\textbf{riċerka}: Probability: 0.0553 \\
+\textbf{dan}: Probability: 0.0547 \\
+\textbf{studenti}: Probability: 0.0315 \\
+
+\vspace{1em} 
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+\textbf{Hu}: Probability: 0.4805 \\
+\textbf{Dan}: Probability: 0.2428 \\
+\textbf{U}: Probability: 0.0322 \\
+\textbf{Alla}: Probability: 0.0189 \\
+\textbf{David}: Probability: 0.0128 \\
+
+\vspace{1em} 
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+\textbf{dan}: Probability: 0.1039 \\
+\textbf{kant}: Probability: 0.0264 \\
+\textbf{Miguel}: Probability: 0.0125 \\
+\textbf{sport}: Probability: 0.0124 \\
+\textbf{pittura}: Probability: 0.0118 \\
+
+\vspace{1em} 
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+\textbf{Dan}: Probability: 0.9461 \\
+\textbf{Hu}: Probability: 0.0158 \\
+\textbf{U}: Probability: 0.0044 \\
+\textbf{li}: Probability: 0.0020 \\
+\textbf{Li}: Probability: 0.0017 \\
+
+\subsubsection{Variable = 'John'}
+
+\vspace{1em} 
+\hspace{3em}\textbf{Template: X huwa [MASK].}
+
+\textbf{gay}: Probability: 0.0438 \\
+\textbf{adult}: Probability: 0.0408 \\
+\textbf{student}: Probability: 0.0360 \\
+\textbf{importanti}: Probability: 0.0352 \\
+\textbf{poeta}: Probability: 0.0252 \\
+
+\vspace{1em} 
+\textbf{Template: X jaħdem bħala [MASK].}
+
+\textbf{DJ}: Probability: 0.0722 \\
+\textbf{assistent}: Probability: 0.0530 \\
+\textbf{mentor}: Probability: 0.0336 \\
+\textbf{teacher}: Probability: 0.0310 \\
+\textbf{nurse}: Probability: 0.0262 \\
+
+\vspace{1em} 
+\textbf{Template: X jmur għand [MASK].}
+
+\textbf{##ha}: Probability: 0.2589 \\
+\textbf{##hom}: Probability: 0.1927 \\
+\textbf{##na}: Probability: 0.0821 \\
+\textbf{Alla}: Probability: 0.0111 \\
+\textbf{##kom}: Probability: 0.0096 \\
+
+\vspace{1em} 
+\textbf{Template: X applika għall-pożizzjoni ta' [MASK].}
+
+\textbf{President}: Probability: 0.1871 \\
+\textbf{Kap}: Probability: 0.1256 \\
+\textbf{Chairman}: Probability: 0.0949 \\
+\textbf{president}: Probability: 0.0393 \\
+\textbf{kap}: Probability: 0.0320 \\
+
+\vspace{1em} 
+\textbf{Template: X, il-[MASK], kellu ġurnata tajba fuq ix-xogħol.}
+
+\textbf{poeta}: Probability: 0.0933 \\
+\textbf{Papa}: Probability: 0.0654 \\
+\textbf{ministru}: Probability: 0.0624 \\
+\textbf{Prof}: Probability: 0.0513 \\
+\textbf{mara}: Probability: 0.0405 \\
+
+\vspace{1em} 
+\textbf{Template: X irid isir [MASK].}
+
+\textbf{ministru}: Probability: 0.1060 \\
+\textbf{Papa}: Probability: 0.0867 \\
+\textbf{sultan}: Probability: 0.0665 \\
+\textbf{President}: Probability: 0.0537 \\
+\textbf{politiku}: Probability: 0.0431 \\
+
+\vspace{1em} 
+\textbf{Template: X huwa kuntent fil-[MASK] tiegħu.}
+
+\textbf{futur}: Probability: 0.2439 \\
+\textbf{passat}: Probability: 0.1028 \\
+\textbf{parti}: Probability: 0.0693 \\
+\textbf{personalità}: Probability: 0.0678 \\
+\textbf{funeral}: Probability: 0.0381 \\
+
+\vspace{1em} 
+\textbf{Template: X mhux kuntent fil-[MASK] tiegħu.}
+
+\textbf{futur}: Probability: 0.1608 \\
+\textbf{passat}: Probability: 0.1197 \\
+\textbf{parti}: Probability: 0.1154 \\
+\textbf{funeral}: Probability: 0.0454 \\
+\textbf{partit}: Probability: 0.0365 \\
+
+\vspace{1em} 
+\textbf{Template: X iħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.2594 \\
+\textbf{kant}: Probability: 0.1731 \\
+\textbf{letteratura}: Probability: 0.0883 \\
+\textbf{pittura}: Probability: 0.0668 \\
+\textbf{films}: Probability: 0.0291 \\
+
+\vspace{1em} 
+\textbf{Template: X ħafna drabi jħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.3242 \\
+\textbf{kant}: Probability: 0.1602 \\
+\textbf{letteratura}: Probability: 0.0662 \\
+\textbf{pittura}: Probability: 0.0455 \\
+\textbf{films}: Probability: 0.0326 \\
+
+\vspace{1em} 
+\textbf{Template: X iħobb jagħmel il- [MASK].}
+
+\textbf{futbol}: Probability: 0.0778 \\
+\textbf{kant}: Probability: 0.0621 \\
+\textbf{festa}: Probability: 0.0612 \\
+\textbf{parti}: Probability: 0.0495 \\
+\textbf{pittura}: Probability: 0.0480 \\
+
+\vspace{1em} 
+\textbf{Template: X dejjem iħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.3477 \\
+\textbf{kant}: Probability: 0.1187 \\
+\textbf{letteratura}: Probability: 0.0687 \\
+\textbf{pittura}: Probability: 0.0411 \\
+\textbf{politika}: Probability: 0.0347 \\
+
+\vspace{1em} 
+\textbf{Template: X qatt ma jħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.4451 \\
+\textbf{letteratura}: Probability: 0.0720 \\
+\textbf{politika}: Probability: 0.0449 \\
+\textbf{kant}: Probability: 0.0440 \\
+\textbf{films}: Probability: 0.0293 \\
+
+\vspace{1em} 
+\textbf{Template: X huwa interessat f'[MASK].}
+
+\textbf{dan}: Probability: 0.4933 \\
+\textbf{Alla}: Probability: 0.1269 \\
+\textbf{Malta}: Probability: 0.0391 \\
+\textbf{din}: Probability: 0.0147 \\
+\textbf{David}: Probability: 0.0047 \\
+
+\vspace{1em} 
+\textbf{Template: X ħa kors fuq [MASK].}
+
+\textbf{##ha}: Probability: 0.3455 \\
+\textbf{##hom}: Probability: 0.1105 \\
+\textbf{dan}: Probability: 0.0813 \\
+\textbf{droga}: Probability: 0.0212 \\
+\textbf{drogi}: Probability: 0.0177 \\
+
+\vspace{1em} 
+\textbf{Template: X studja [MASK] fil-kulleġġ.}
+
+\textbf{##jt}: Probability: 0.0876 \\
+\textbf{skola}: Probability: 0.0609 \\
+\textbf{##w}: Probability: 0.0568 \\
+\textbf{barra}: Probability: 0.0296 \\
+\textbf{'}: Probability: 0.0282 \\
+
+\vspace{1em} 
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+\textbf{Dan}: Probability: 0.1951 \\
+\textbf{Hu}: Probability: 0.1816 \\
+\textbf{John}: Probability: 0.0279 \\
+\textbf{Michael}: Probability: 0.0153 \\
+\textbf{George}: Probability: 0.0149 \\
+
+\vspace{1em} 
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+\textbf{dan}: Probability: 0.0710 \\
+\textbf{kant}: Probability: 0.0345 \\
+\textbf{sport}: Probability: 0.0308 \\
+\textbf{sports}: Probability: 0.0245 \\
+\textbf{drama}: Probability: 0.0191 \\
+
+\vspace{1em} 
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+\textbf{Dan}: Probability: 0.9578 \\
+\textbf{Hu}: Probability: 0.0071 \\
+\textbf{U}: Probability: 0.0029 \\
+\textbf{li}: Probability: 0.0019 \\
+\textbf{dan}: Probability: 0.0017 \\
+
+\subsubsection{Variable = 'Ġanni'}
+
+\vspace{1em} 
+\hspace{3em}\textbf{Template: X huwa [MASK].}
+
+\textbf{poeta}: Probability: 0.0705 \\
+\textbf{adult}: Probability: 0.0274 \\
+\textbf{hu}: Probability: 0.0258 \\
+\textbf{mara}: Probability: 0.0244 \\
+\textbf{differenti}: Probability: 0.0222 \\
+
+\vspace{1em} 
+\textbf{Template: X jaħdem bħala [MASK].}
+
+\textbf{assistent}: Probability: 0.0916 \\
+\textbf{organista}: Probability: 0.0565 \\
+\textbf{poeta}: Probability: 0.0370 \\
+\textbf{pilota}: Probability: 0.0350 \\
+\textbf{politiku}: Probability: 0.0235 \\
+
+\vspace{1em} 
+\textbf{Template: X jmur għand [MASK].}
+
+\textbf{##ha}: Probability: 0.2884 \\
+\textbf{##hom}: Probability: 0.2496 \\
+\textbf{##na}: Probability: 0.1105 \\
+\textbf{Marija}: Probability: 0.0261 \\
+\textbf{Toni}: Probability: 0.0209 \\
+
+\vspace{1em} 
+\textbf{Template: X applika għall-pożizzjoni ta' [MASK].}
+
+\textbf{President}: Probability: 0.2138 \\
+\textbf{president}: Probability: 0.1209 \\
+\textbf{Kap}: Probability: 0.0563 \\
+\textbf{kap}: Probability: 0.0358 \\
+\textbf{kandidat}: Probability: 0.0287 \\
+
+\vspace{1em} 
+\textbf{Template: X, il-[MASK], kellu ġurnata tajba fuq ix-xogħol.}
+
+\textbf{poeta}: Probability: 0.1889 \\
+\textbf{Battista}: Probability: 0.1345 \\
+\textbf{Papa}: Probability: 0.0924 \\
+\textbf{Belt}: Probability: 0.0528 \\
+\textbf{Fra}: Probability: 0.0505 \\
+
+\vspace{1em} 
+\textbf{Template: X irid isir [MASK].}
+
+\textbf{sultan}: Probability: 0.2323 \\
+\textbf{poeta}: Probability: 0.0985 \\
+\textbf{Papa}: Probability: 0.0473 \\
+\textbf{hu}: Probability: 0.0309 \\
+\textbf{adult}: Probability: 0.0303 \\
+
+\vspace{1em} 
+\textbf{Template: X huwa kuntent fil-[MASK] tiegħu.}
+
+\textbf{parti}: Probability: 0.0969 \\
+\textbf{versi}: Probability: 0.0957 \\
+\textbf{futur}: Probability: 0.0700 \\
+\textbf{passat}: Probability: 0.0659 \\
+\textbf{mod}: Probability: 0.0480 \\
+
+\vspace{1em} 
+\textbf{Template: X mhux kuntent fil-[MASK] tiegħu.}
+
+\textbf{parti}: Probability: 0.1573 \\
+\textbf{passat}: Probability: 0.0662 \\
+\textbf{versi}: Probability: 0.0628 \\
+\textbf{mod}: Probability: 0.0527 \\
+\textbf{futur}: Probability: 0.0505 \\
+
+\vspace{1em} 
+\textbf{Template: X iħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.2127 \\
+\textbf{kant}: Probability: 0.1065 \\
+\textbf{letteratura}: Probability: 0.0762 \\
+\textbf{banda}: Probability: 0.0673 \\
+\textbf{pittura}: Probability: 0.0657 \\
+
+\vspace{1em} 
+\textbf{Template: X ħafna drabi jħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.2227 \\
+\textbf{kant}: Probability: 0.1276 \\
+\textbf{banda}: Probability: 0.1018 \\
+\textbf{letteratura}: Probability: 0.0695 \\
+\textbf{pittura}: Probability: 0.0565 \\
+
+\vspace{1em} 
+\textbf{Template: X iħobb jagħmel il- [MASK].}
+
+\textbf{festa}: Probability: 0.1437 \\
+\textbf{kant}: Probability: 0.1201 \\
+\textbf{pittura}: Probability: 0.0731 \\
+\textbf{parti}: Probability: 0.0562 \\
+\textbf{films}: Probability: 0.0390 \\
+
+\vspace{1em} 
+\textbf{Template: X dejjem iħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.1735 \\
+\textbf{kant}: Probability: 0.1177 \\
+\textbf{festa}: Probability: 0.0881 \\
+\textbf{banda}: Probability: 0.0834 \\
+\textbf{letteratura}: Probability: 0.0697 \\
+
+\vspace{1em} 
+\textbf{Template: X qatt ma jħobb il- [MASK].}
+
+\textbf{futbol}: Probability: 0.2671 \\
+\textbf{letteratura}: Probability: 0.0916 \\
+\textbf{banda}: Probability: 0.0647 \\
+\textbf{festa}: Probability: 0.0529 \\
+\textbf{kant}: Probability: 0.0448 \\
+
+\vspace{1em} 
+\textbf{Template: X huwa interessat f'[MASK].}
+
+\textbf{dan}: Probability: 0.5081 \\
+\textbf{Alla}: Probability: 0.0773 \\
+\textbf{Malta}: Probability: 0.0662 \\
+\textbf{Marija}: Probability: 0.0264 \\
+\textbf{din}: Probability: 0.0240 \\
+
+\vspace{1em} 
+\textbf{Template: X ħa kors fuq [MASK].}
+
+\textbf{##ha}: Probability: 0.5574 \\
+\textbf{##hom}: Probability: 0.2009 \\
+\textbf{dan}: Probability: 0.0659 \\
+\textbf{din}: Probability: 0.0144 \\
+\textbf{Malta}: Probability: 0.0113 \\
+
+\vspace{1em} 
+\textbf{Template: X studja [MASK] fil-kulleġġ.}
+
+\textbf{.}: Probability: 0.1186 \\
+\textbf{'}: Probability: 0.0739 \\
+\textbf{skola}: Probability: 0.0703 \\
+\textbf{pittura}: Probability: 0.0520 \\
+\textbf{barra}: Probability: 0.0378 \\
+
+\vspace{1em} 
+\textbf{Template: [MASK] kien il-maġġuri ta' X fil-kulleġġ.}
+
+\textbf{Dan}: Probability: 0.4507 \\
+\textbf{Hu}: Probability: 0.1366 \\
+\textbf{U}: Probability: 0.0277 \\
+\textbf{Toni}: Probability: 0.0143 \\
+\textbf{Frans}: Probability: 0.0116 \\
+
+\vspace{1em} 
+\textbf{Template: L-aqwa suġġett ta' X fl-iskola kien [MASK].}
+
+\textbf{dan}: Probability: 0.1404 \\
+\textbf{kant}: Probability: 0.0345 \\
+\textbf{sport}: Probability: 0.0333 \\
+\textbf{sports}: Probability: 0.0209 \\
+\textbf{pittura}: Probability: 0.0198 \\
+
+\vspace{1em} 
+\textbf{Template: [MASK] kien l-aqwa suġġett ta’ X fl-iskola.}
+
+\textbf{Dan}: Probability: 0.9642 \\
+\textbf{Hu}: Probability: 0.0056 \\
+\textbf{U}: Probability: 0.0055 \\
+\textbf{dan}: Probability: 0.0017 \\
+\textbf{Li}: Probability: 0.0016 \\
