@@ -8,4 +8,4 @@ Our main goal was to provide **unseen data** for evaluating debiasing techniques
 
 ## Data Volume
 
-This subset includes **454,515 sentences** from Korpus Malti v4.2 and was vital for **Counterfactual Data Augmentation (CDA)** and **Dropout Regularization:**.
+This subset includes **454,515 sentences** from Korpus Malti v4.2 and was vital for **Counterfactual Data Augmentation (CDA)** and **Dropout Regularization**.
