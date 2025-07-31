@@ -12,15 +12,11 @@ The source sentences in these datasets were compiled from various corpora. Pleas
 |-----------------|------------|-----------------------------------|
 | FLORES-200      | [github](https://github.com/facebookresearch/flores/blob/main/flores200) | [CC-BY-SA 4.0](https://github.com/facebookresearch/flores?tab=readme-ov-file#licenses)                      |
 | CrowS-Pairs     | [github](https://github.com/nyu-mll/crows-pairs) | [CC-BY-SA 4.0](https://github.com/nyu-mll/crows-pairs?tab=readme-ov-file#license)                      |
-| EUbookshop      | [opus](https://opus.nlpl.eu/EUbookshop/en&mt/v2/EUbookshop) | _N/A_                               |
-| ELITR-ECA       | [opus](https://opus.nlpl.eu/ELITR-ECA/en&mt/v1/ELITR-ECA) | [CC-BY-4.0](https://opus.nlpl.eu/ELITR-ECA/en&mt/v1/ELITR-ECA)                         |
-| TED2020         | [opus](https://opus.nlpl.eu/TED2020/en&mt/v1/TED2020) | See [TED Talks Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy)            |
-| Elhuyar         | [opus](https://opus.nlpl.eu/Elhuyar/es&eu/v1/Elhuyar) | [Creative Commons](https://opus.nlpl.eu/Elhuyar/es&eu/v1/Elhuyar)              |
-| OpenSubtitles   | [opus](https://opus.nlpl.eu/OpenSubtitles/es&eu/v2018/OpenSubtitles) | _N/A_                               |
-| EhuHac          | [opus](https://opus.nlpl.eu/EhuHac/es&eu/v1/EhuHac) | _N/A_                               |
-| QED             | [opus](https://opus.nlpl.eu/QED/es&eu/v2.0a/QED) | [Public for research purposes only](https://opus.nlpl.eu/QED/es&eu/v2.0a/QED) |
-| WikiMatrix      | [opus](https://opus.nlpl.eu/WikiMatrix/es&eu/v1/WikiMatrix) | [CC-BY-SA 4.0](https://opus.nlpl.eu/WikiMatrix/es&eu/v1/WikiMatrix)                      |
-| NeuLab-TedTalks | [opus](https://opus.nlpl.eu/NeuLab-TedTalks/es&eu/v1/NeuLab-TedTalks) | See [TED Talks Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy)              |
+| SEAT (eng)      | [github](https://github.com/W4ngatang/sent-bias) | [CC-BY-SA 4.0](https://github.com/W4ngatang/sent-bias/blob/master/LICENSE) |         
+| Korpus Malti v4.2       | [MLRS](https://mlrs.research.um.edu.mt/index.php?page=corpora) | [CC BY-NC-SA 4.0](https://huggingface.co/datasets/MLRS/korpus_malti)                         |
+| Gender wordlist        | [github](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino) | [MIT](https://github.com/uclanlp/corefBias/blob/master/LICENSE)            |
+| Neutral & Stereotype wordlist         | [github](https://github.com/squiduu/guidebias/tree/main/guidebias/data) | N/A              |
+
 
 ## Reference
 
